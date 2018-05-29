@@ -1,0 +1,43 @@
+﻿'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.vshost.exe'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.exe'. Symbols loaded.
+The thread 0x35cc has exited with code 0 (0x0).
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\PJRCoreDataUtilities.dll'. Symbols loaded.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll'. Cannot find or open the PDB file.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\MySql.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'UniversalDataLoader.vshost.exe' (CLR v4.0.30319: UniversalDataLoader.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0x3c9c has exited with code 0 (0x0).
+The thread 0x153c has exited with code 0 (0x0).
+The thread 0x4fc8 has exited with code 0 (0x0).
+The thread 0x5a4 has exited with code 0 (0x0).
+The thread 0x2674 has exited with code 0 (0x0).
+The thread 0x4b08 has exited with code 0 (0x0).
+The thread 0x2fc8 has exited with code 0 (0x0).
+The thread 0x309c has exited with code 0 (0x0).
+The thread 0x3f6c has exited with code 0 (0x0).
+The thread 0x3454 has exited with code 0 (0x0).
+The thread 0x46d8 has exited with code 0 (0x0).
+The thread 0x2544 has exited with code 0 (0x0).
+The thread 0x2584 has exited with code 0 (0x0).
+The thread 0xf14 has exited with code 0 (0x0).
+The thread 0x3e50 has exited with code 0 (0x0).
+The thread 0x2ae8 has exited with code 0 (0x0).
+The thread 0x4fa0 has exited with code 0 (0x0).
+The thread 0x22f8 has exited with code 0 (0x0).
+The thread 0x22dc has exited with code 0 (0x0).
+The thread 0x42f0 has exited with code 0 (0x0).
+The thread 0x21b8 has exited with code 0 (0x0).
+The program '[17760] UniversalDataLoader.vshost.exe' has exited with code 0 (0x0).

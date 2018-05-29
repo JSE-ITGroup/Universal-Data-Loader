@@ -1,0 +1,37 @@
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.exe.config
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.exe
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.pdb
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\PJRCoreDataUtilities.dll
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\MySql.Data.dll
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\PJRCoreDataUtilities.pdb
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.csprojResolveAssemblyReference.cache
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.Form1.resources
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.Properties.Resources.resources
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.csproj.GenerateResource.Cache
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.exe
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.pdb
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Data.dll
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.dll
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Drawing.dll
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Windows.Forms.dll
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Xml.dll
+C:\My Projects\UniversalDataLoader\UniversalDataLoader\bin\Debug\PJRCoreDataUtilities.xml
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.exe.config
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.exe
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\UniversalDataLoader.pdb
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Data.dll
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.dll
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Drawing.dll
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Windows.Forms.dll
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\System.Xml.dll
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\MySql.Data.dll
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\PJRCoreDataUtilities.pdb
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\bin\Debug\PJRCoreDataUtilities.xml
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.csprojResolveAssemblyReference.cache
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.Form1.resources
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.Properties.Resources.resources
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.csproj.GenerateResource.Cache
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.csproj.CoreCompileInputs.cache
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.exe
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.pdb
+C:\Users\au_xavier.watson\source\repos\UniversalDataLoader\UniversalDataLoader\obj\Debug\UniversalDataLoader.csproj.CopyComplete

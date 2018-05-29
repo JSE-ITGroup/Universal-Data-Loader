@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UniversalDataLoader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OleExcelConnectionTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source="{0}";Provider=Microsoft.Jet.OLEDB.4.0;Extended Properties="Excel 8.0;HDR=YES";</Value>
+    </Setting>
+    <Setting Name="MaxFileHolder" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="ConnectionFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DBConnectionString.txt</Value>
+    </Setting>
+    <Setting Name="DatabaseTableListQuery" Type="System.String" Scope="User">
+      <Value Profile="(Default)">select name from Sys.objects where Type='U' order by name</Value>
+    </Setting>
+    <Setting Name="BatchSizePercentPerDataset" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="OleFlatFileConnectionTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Provider=Microsoft.Jet.OLEDB.4.0;Data Source="{0}";Extended Properties = "text;HDR=Yes;FMT=Delimited({1})";</Value>
+    </Setting>
+    <Setting Name="OleExcelXmlFileConnectionTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.12.0;Data Source="{0}";Extended Properties="Excel 12.0 Xml;HDR=YES";</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

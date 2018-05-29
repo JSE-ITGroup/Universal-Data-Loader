@@ -1,0 +1,14 @@
+Local Sever|Data Source=(local);Initial Catalog=Test;Integrated Security=True;
+HISTORICAL DIVIDEND|Data Source=10.100.100.230;Initial Catalog=HistoricalDividend;User ID=dependapp;Password=P@ssw0rd;
+DEPEND PRODUCTION ENVIRONMENT|Data Source=10.240.18.204;Initial Catalog=Depend;User ID=dependapp;Password=P@ssw0rd;
+DEPEND DSU ENVIRONMENT|Data Source=10.100.100.63;Initial Catalog=DSU;User ID=peter.robinson;Password=P@$$w0rd1;
+DEPEND LIVE_COPY ENVIRONMENT|Data Source=10.100.100.230;Initial Catalog=LIVE_COPY;User ID=dependapp;Password=P@ssw0rd;
+DEPEND TSU ENVIRONMENT|Data Source=10.100.100.63;Initial Catalog=TSU;User ID=peter.robinson;Password=P@$$w0rd1;
+DEPEND RSU ENVIRONMENT|Data Source=10.100.100.63;Initial Catalog=RSU;User ID=peter.robinson;Password=P@$$w0rd1;
+DEPEND UPGRADE ENVIRONMENT|Data Source=10.100.100.63;Initial Catalog=UPGRADE;User ID=peter.robinson;Password=P@$$w0rd1;
+DEPEND TSUUPGRADE ENVIRONMENT|Data Source=10.100.100.63;Initial Catalog=TSUUPGRADE;User ID=peter.robinson;Password=P@$$w0rd1;
+GVREPOSITORY ENVIRONMENT|Data Source=10.100.100.58;Initial Catalog=GVREPOSITORY;User ID=peter.robinson;Password=P@$$w0rd1;
+NCB Uploads|Data Source=10.100.100.63;Initial Catalog=NCBTTCD;User ID=peter.robinson;Password=P@$$w0rd1;
+OTS Staging|Data Source=10.100.100.63;Initial Catalog=Staging;User ID=peter.robinson;Password=P@$$w0rd1;
+STT Migration|Data Source=10.100.100.58;Initial Catalog=STT_MIG_DATA;User ID=peter.robinson;Password=P@$$w0rd1;
+WebFeedRepository|Data Source=10.240.18.202;Initial Catalog=WebFeedRepository;User ID=dependapp;Password=P@ssw0rd;
